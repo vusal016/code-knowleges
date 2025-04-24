@@ -1,0 +1,4 @@
+C:\Users\User\OneDrive\Desktop\Pb305\Variable tasks\obj\Debug\net8.0\Variable tasks.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\OneDrive\Desktop\Pb305\Variable tasks\obj\Debug\net8.0\Variable tasks.AssemblyInfoInputs.cache
+C:\Users\User\OneDrive\Desktop\Pb305\Variable tasks\obj\Debug\net8.0\Variable tasks.AssemblyInfo.cs
+C:\Users\User\OneDrive\Desktop\Pb305\Variable tasks\obj\Debug\net8.0\Variable tasks.csproj.CoreCompileInputs.cache
