@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\User\\OneDrive\\Desktop\\Pb305\\Array tasks\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A3A21436-4E20-4D46-AA7E-9A794B252517}|Array tasks\\Array tasks.csproj|c:\\users\\user\\onedrive\\desktop\\pb305\\array tasks\\array tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A3A21436-4E20-4D46-AA7E-9A794B252517}|Array tasks\\Array tasks.csproj|solutionrelative:array tasks\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\User\\OneDrive\\Desktop\\Pb305\\Array tasks\\Array tasks\\Program.cs",
+              "RelativeDocumentMoniker": "Array tasks\\Program.cs",
+              "ToolTip": "C:\\Users\\User\\OneDrive\\Desktop\\Pb305\\Array tasks\\Array tasks\\Program.cs",
+              "RelativeToolTip": "Array tasks\\Program.cs",
+              "ViewState": "AgIAAE0AAAAAAAAAAAAiwFYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-28T21:02:53.598Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
